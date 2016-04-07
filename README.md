@@ -1,0 +1,2 @@
+# MifuminCharacterLicense
+キャラクターの利用をキャラクター名の表記を条件に許諾するライセンス
